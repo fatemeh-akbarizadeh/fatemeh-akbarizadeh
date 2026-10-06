@@ -58,7 +58,7 @@ A modern React application built with TypeScript and MUI, featuring reusable com
 - Building real-world applications
 
 ---
-
 ## 📫 Connect With Me
 
-- GitHub: [@fatemeh-akbarizadeh](https://github.com/fatemeh-akbarizadeh)
+- 💼 LinkedIn: [Fatemeh Akbarizadeh](https://www.linkedin.com/in/fatemeh-akbari-bba846441/)
+- 💻 GitHub: [@fatemeh-akbarizadeh](https://github.com/fatemeh-akbarizadeh)
