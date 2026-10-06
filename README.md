@@ -61,4 +61,4 @@ A modern React application built with TypeScript and MUI, featuring reusable com
 
 ## 📫 Connect With Me
 
-- GitHub: [@f-akbarizadeh](https://github.com/f-akbarizadeh)
+- GitHub: [@f-akbarizadeh](https://github.com/fatemeh-akbarizadeh)
