@@ -40,12 +40,15 @@ I'm currently focused on improving my skills in React, TypeScript, and modern fr
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### React Project
-A React application built with TypeScript and MUI, featuring reusable components, routing, state management, API integration, and a responsive UI.
+### 🛒 My React Project
 
----
+A modern React application built with TypeScript and MUI, featuring reusable components, routing, state management, API integration, and a responsive user interface.
+
+🔗 [View Project](https://github.com/fatemeh-akbarizadeh/my-react-project)
+
+
 
 ## 🌱 Currently Learning
 
